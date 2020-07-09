@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Software Engineer working in Berlin, Germany.
+#### I'm a Solutions Architect and Engineer working in Berlin, Germany.
 
 - 🏢 I'm currently working at **AWS**
 - ⚙️ I daily use: `.go`, `.ts`, `.ks`, `.dart`, `.html`, `.css` and `.swift`
