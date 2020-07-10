@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-```bash
-npx katallaxie
-```
-
 #### I'm a Solutions Architect and Engineer working in Berlin, Germany.
 
 - 🏢 I'm currently working at **AWS**
@@ -14,3 +10,9 @@ npx katallaxie
 - 💬 Ping me about **distributed systems**, **architecture**, **serverless**, **develoment**
 - 📫 Reach me: [twitter.com/katallaxie](https://twitter.com/katallaxie)
 - ⚡️ Fun fact: I'm a LEGO architect.
+
+👇 Hit me in your console 👨‍💻
+
+```bash
+npx katallaxie
+```
