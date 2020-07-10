@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+```bash
+npx katallaxie
+```
+
 #### I'm a Solutions Architect and Engineer working in Berlin, Germany.
 
 - 🏢 I'm currently working at **AWS**
