@@ -3,10 +3,10 @@
 ### I'm a solutions architect and software engineer living in Berlin, 🇩🇪.
 
 - 🏢 I'm working at **AWS**
-- 🚀 I delivered products at **DigitalOcean**, **Axel Springer**, **Accenture**, **IBM**, and **FSU Jena**
+- 🚀 I created products at **DigitalOcean**, **Axel Springer**, **Accenture**, and **IBM**
 - 🌱 Learning all about **Serverless** and **Flutter**
 - 💬 Ping me about **distributed systems**, **architecture**, **serverless**, **development**
-- ⚡️ Fun fact: I'm a LEGO architect.
+- ⚡️ Fun fact: I'm a LEGO architect and economist.
 
 👇 Hit me in your console to connect.
 
@@ -39,13 +39,10 @@ npx katallaxie
 
 ---
 ### 📕 Latest Blog Posts
+- [Deploy AWS CloudFormation stacks with GitHub Actions + React Example](https://dev.to/katallaxie/deploy-aws-cloudformation-stacks-with-github-actions-react-example-1f37)
 - [Deploy AWS CloudFormation stacks with GitHub Actions](https://aws.amazon.com/blogs/opensource/deploy-aws-cloudformation-stacks-with-github-actions/)
 - [Streaming web content with a log-based architecture with Amazon MSK](https://aws.amazon.com/blogs/security/how-to-use-g-suite-as-external-identity-provider-aws-sso/)
 - [How to use G Suite as an external identity provider for AWS SSO](https://aws.amazon.com/blogs/big-data/streaming-web-content-with-a-log-based-architecture-with-amazon-msk/)
 - [Introducing a Dart runtime for AWS Lambda](https://aws.amazon.com/blogs/opensource/introducing-a-dart-runtime-for-aws-lambda/)
-
----
-
-[![katallaxies's github stats](https://github-readme-stats.vercel.app/api?username=katallaxie&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://katallaxie.me
