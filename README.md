@@ -39,10 +39,12 @@ npx katallaxie
 
 ---
 ### 📕 Latest Blog Posts
+- [The State of Go Plugins](https://dev.to/katallaxie/the-state-of-go-plugins-86n)
+- [Module Resolution in Large Projects with TypeScript](https://dev.to/katallaxie/module-resolution-in-large-projects-with-typescript-2ak9)
 - [Deploy AWS CloudFormation stacks with GitHub Actions + React Example](https://dev.to/katallaxie/deploy-aws-cloudformation-stacks-with-github-actions-react-example-1f37)
 - [Deploy AWS CloudFormation stacks with GitHub Actions](https://aws.amazon.com/blogs/opensource/deploy-aws-cloudformation-stacks-with-github-actions/)
 - [Streaming web content with a log-based architecture with Amazon MSK](https://aws.amazon.com/blogs/big-data/streaming-web-content-with-a-log-based-architecture-with-amazon-msk/)
-- [How to use G Suite as an external identity provider for AWS SSO](https://aws.amazon.com/blogs/big-data/streaming-web-content-with-a-log-based-architecture-with-amazon-msk/)
+- [How to use G Suite as an external identity provider for AWS SSO](https://aws.amazon.com/blogs/security/how-to-use-g-suite-as-external-identity-provider-aws-sso/)
 - [Introducing a Dart runtime for AWS Lambda](https://aws.amazon.com/blogs/opensource/introducing-a-dart-runtime-for-aws-lambda/)
 
 [website]: https://katallaxie.me
