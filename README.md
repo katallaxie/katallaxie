@@ -17,28 +17,29 @@ npx katallaxie
 ---
 ### Languages & Tools
 
-[<img align="left" style="padding-right: 12px" alt="Go" width="32px" src="https://github.com/github/explore/raw/master/topics/go/go.png" />][website]
-[<img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/master/topics/javascript/javascript.png" />][website]
-[<img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/master/topics/typescript/typescript.png" />][website]
-[<img align="left" style="padding-right: 12px" alt="Dart" width="32px" src="https://github.com/github/explore/raw/master/topics/dart/dart.png" />][website]
-[<img align="left" style="padding-right: 12px" alt="Swift" width="32px" src="https://github.com/github/explore/raw/master/topics/swift/swift.png" />][website]
-[<img align="left" style="padding-right: 12px" alt="PHP" width="32px" src="https://github.com/github/explore/raw/master/topics/php/php.png" />][website]
-[<img align="left" style="padding-right: 12px" alt="AWS" width="32px" src="https://github.com/github/explore/raw/master/topics/aws/aws.png" />][website]
-[<img align="left" style="padding-right: 12px" alt="Flutter" width="32px" src="https://github.com/github/explore/raw/master/topics/flutter/flutter.png" />][website]
-[<img align="left" style="padding-right: 12px" alt="GraphQL" width="32px" src="https://github.com/github/explore/raw/master/topics/graphql/graphql.png" />][website]
-[<img align="left" style="padding-right: 12px" alt="SQL" width="32px" src="https://github.com/github/explore/raw/master/topics/sql/sql.png" />][website]
-[<img align="left" style="padding-right: 12px" alt="MongoDB" width="32px" src="https://github.com/github/explore/raw/master/topics/mongodb/mongodb.png" />][website]
-[<img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/master/topics/react/react.png" />][website]
-[<img align="left" style="padding-right: 12px" alt="Vue" width="32px" src="https://github.com/github/explore/raw/master/topics/vue/vue.png" />][website]
-[<img align="left" style="padding-right: 12px" alt="Terraform" width="32px" src="https://github.com/github/explore/raw/master/topics/terraform/terraform.png" />][website]
-[<img align="left" style="padding-right: 12px" alt="Docker" width="32px" src="https://github.com/github/explore/raw/master/topics/docker/docker.png" />][website]
-[<img align="left" style="padding-right: 12px" alt="K8s" width="32px" src="https://github.com/github/explore/raw/master/topics/kubernetes/kubernetes.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="Go" width="32px" src="https://github.com/github/explore/raw/main/topics/go/go.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="Dart" width="32px" src="https://github.com/github/explore/raw/main/topics/dart/dart.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="Swift" width="32px" src="https://github.com/github/explore/raw/main/topics/swift/swift.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="PHP" width="32px" src="https://github.com/github/explore/raw/main/topics/php/php.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="AWS" width="32px" src="https://github.com/github/explore/raw/main/topics/aws/aws.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="Flutter" width="32px" src="https://github.com/github/explore/raw/main/topics/flutter/flutter.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="GraphQL" width="32px" src="https://github.com/github/explore/raw/main/topics/graphql/graphql.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="SQL" width="32px" src="https://github.com/github/explore/raw/main/topics/sql/sql.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="MongoDB" width="32px" src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="React" width="32px" src="https://github.com/github/explore/raw/main/topics/react/react.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="Vue" width="32px" src="https://github.com/github/explore/raw/main/topics/vue/vue.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="Terraform" width="32px" src="https://github.com/github/explore/raw/main/topics/terraform/terraform.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="Docker" width="32px" src="https://github.com/github/explore/raw/main/topics/docker/docker.png" />][website]
+[<img align="left" style="padding-right: 12px" alt="K8s" width="32px" src="https://github.com/github/explore/raw/main/topics/kubernetes/kubernetes.png" />][website]
 
 <br />
 <br />
 
 ---
 ### 📕 Latest Blog Posts
+- [Composition in Next.js Static Properties](https://dev.to/katallaxie/composition-in-next-js-static-properties-1ce0)
 - [The State of Go Plugins](https://dev.to/katallaxie/the-state-of-go-plugins-86n)
 - [Module Resolution in Large Projects with TypeScript](https://dev.to/katallaxie/module-resolution-in-large-projects-with-typescript-2ak9)
 - [Deploy AWS CloudFormation stacks with GitHub Actions + React Example](https://dev.to/katallaxie/deploy-aws-cloudformation-stacks-with-github-actions-react-example-1f37)
