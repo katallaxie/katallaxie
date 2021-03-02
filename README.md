@@ -39,6 +39,7 @@ npx katallaxie
 
 ---
 ### 📕 Latest Blog Posts
+- [The Power of TypeScript for GraphQL Union Type Filters](https://dev.to/katallaxie/the-power-of-typescript-for-graphql-union-type-filters-4cl2)
 - [Composition in Next.js Static Properties](https://dev.to/katallaxie/composition-in-next-js-static-properties-1ce0)
 - [The State of Go Plugins](https://dev.to/katallaxie/the-state-of-go-plugins-86n)
 - [Module Resolution in Large Projects with TypeScript](https://dev.to/katallaxie/module-resolution-in-large-projects-with-typescript-2ak9)
