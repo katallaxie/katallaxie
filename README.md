@@ -1,9 +1,9 @@
 ### Hi there, I'm Sebastian 👋
 
-### I'm a solutions architect and software engineer living in Berlin, 🇩🇪.
+### I'm a senior software engineer living in Berlin, 🇩🇪.
 
-- 🏢 I'm working at **AWS**
-- 🚀 I created products at **DigitalOcean**, **Axel Springer**, **Accenture**, and **IBM**
+- 🏢 I'm working at Microsoft.
+- 🚀 I created products at **AWS**, **DigitalOcean**, **Axel Springer**, **Accenture**, and **IBM**
 - 🌱 Learning all about **Serverless** and **Flutter**
 - 💬 Ping me about **distributed systems**, **architecture**, **serverless**, **development**
 - ⚡️ Fun fact: I'm a LEGO architect and economist.
