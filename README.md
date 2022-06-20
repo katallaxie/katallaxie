@@ -1,4 +1,4 @@
-### Hi there, I'm Sebastian 👋
+### Oh! Hi there, I'm Sebastian 👋
 
 ### I'm a senior software engineer living in Berlin, 🇩🇪.
 
@@ -15,14 +15,13 @@ npx katallaxie
 ```
 
 ---
-### Languages & Tools
+### 🧰 Languages & Tools
 
 [<img align="left" style="padding-right: 12px" alt="Go" width="32px" src="https://github.com/github/explore/raw/main/topics/go/go.png" />][website]
 [<img align="left" style="padding-right: 12px" alt="JavaScript" width="32px" src="https://github.com/github/explore/raw/main/topics/javascript/javascript.png" />][website]
 [<img align="left" style="padding-right: 12px" alt="TypeScript" width="32px" src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" />][website]
 [<img align="left" style="padding-right: 12px" alt="Dart" width="32px" src="https://github.com/github/explore/raw/main/topics/dart/dart.png" />][website]
 [<img align="left" style="padding-right: 12px" alt="Swift" width="32px" src="https://github.com/github/explore/raw/main/topics/swift/swift.png" />][website]
-[<img align="left" style="padding-right: 12px" alt="PHP" width="32px" src="https://github.com/github/explore/raw/main/topics/php/php.png" />][website]
 [<img align="left" style="padding-right: 12px" alt="AWS" width="32px" src="https://github.com/github/explore/raw/main/topics/aws/aws.png" />][website]
 [<img align="left" style="padding-right: 12px" alt="Flutter" width="32px" src="https://github.com/github/explore/raw/main/topics/flutter/flutter.png" />][website]
 [<img align="left" style="padding-right: 12px" alt="GraphQL" width="32px" src="https://github.com/github/explore/raw/main/topics/graphql/graphql.png" />][website]
@@ -49,4 +48,11 @@ npx katallaxie
 - [How to use G Suite as an external identity provider for AWS SSO](https://aws.amazon.com/blogs/security/how-to-use-g-suite-as-external-identity-provider-aws-sso/)
 - [Introducing a Dart runtime for AWS Lambda](https://aws.amazon.com/blogs/opensource/introducing-a-dart-runtime-for-aws-lambda/)
 
-[website]: https://katallaxie.me
+---
+### 📫 Find me
+
+* 🐦 [Twitter](https://twitter.com/katallaxie)
+* 🧑‍🤝‍🧑 [LinkedIn](https://www.linkedin.com/in/katallaxie/)
+* 🗺️ [Web](https://katallaxie.dev)
+
+[website]: https://katallaxie.dev
