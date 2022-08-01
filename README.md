@@ -1,9 +1,9 @@
 ### Oh! Hi there, I'm Sebastian 👋
 
-### I'm a senior software engineer living in Berlin, 🇩🇪.
+### I'm a software engineer living in Berlin, 🇩🇪.
 
-- 🏢 I'm working at **Microsoft**.
-- 🚀 I created products at **AWS**, **DigitalOcean**, **Axel Springer**, **Accenture**, and **IBM**
+- 🏢 I'm Head of Paas Internal Services at [IONOS Cloud}(https://cloud.ionos.com).
+- 🚀 I created products at **Microsoft**, **AWS**, **DigitalOcean**, **Axel Springer**, **Accenture**, and **IBM**
 - 🌱 Learning all about **Serverless** and **Flutter**
 - 💬 Ping me about **distributed systems**, **architecture**, **serverless**, **development**
 - ⚡️ Fun fact: I'm a LEGO architect and economist.
