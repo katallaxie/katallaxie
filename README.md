@@ -2,7 +2,7 @@
 
 ### I'm a software engineer living in Berlin, 🇩🇪.
 
-- 🏢 I'm Head of Paas Internal Services at [IONOS Cloud}(https://cloud.ionos.com).
+- 🏢 I'm Head of Paas Internal Services at [IONOS Cloud](https://cloud.ionos.com).
 - 🚀 I created products at **Microsoft**, **AWS**, **DigitalOcean**, **Axel Springer**, **Accenture**, and **IBM**
 - 🌱 Learning all about **Serverless** and **Flutter**
 - 💬 Ping me about **distributed systems**, **architecture**, **serverless**, **development**
