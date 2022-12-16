@@ -51,7 +51,7 @@ npx katallaxie
 ---
 ### 📫 Find me
 
-* 🐦 [Twitter](https://twitter.com/katallaxie)
+* 🐦 [Mastodon](https://hachyderm.io/@katallaxie)
 * 🧑‍🤝‍🧑 [LinkedIn](https://www.linkedin.com/in/katallaxie/)
 * 🗺️ [Web](https://katallaxie.dev)
 
