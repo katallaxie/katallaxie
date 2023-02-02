@@ -1,12 +1,12 @@
-### Oh! Hi there, I'm Sebastian 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-### I'm a software engineer living in Berlin, 🇩🇪.
+### 👱 I'm a software engineer from Germany 🇩🇪.
 
-- 🏢 I'm Head of PaaS Internal Services at [IONOS Cloud](https://cloud.ionos.com).
-- 🚀 I created products at **Microsoft**, **AWS**, **DigitalOcean**, **Axel Springer**, **Accenture**, and **IBM**
+- 🏢 Head of PaaS Internal Services at [IONOS](https://ionos.com).
+- 🚀 Created products at **Microsoft**, **Amazon**, **DigitalOcean**, **Axel Springer**, **Accenture**, and **IBM**
 - 🌱 Learning all about **Serverless** and **Flutter**
 - 💬 Ping me about **distributed systems**, **systems design**, **serverless**, and **Flutter** :blue_heart:
-- ⚡️ Fun fact: I'm a LEGO architect and economist.
+- ⚡️ Fun fact: LEGO architect and economist.
 
 👇 Hit me in your console to connect.
 
