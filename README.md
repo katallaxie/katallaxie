@@ -37,6 +37,14 @@ npx katallaxie
 <br />
 
 ---
+### 👨‍💻 More pinned highlights
+- [Octopinger](https://github.com/ionos-cloud/octopinger)
+- [Uptrends Operator](https://github.com/ionos-cloud/uptrends-operator)
+- [Go Collection](https://github.com/katallaxie/pkg)
+- [Template Go](https://github.com/katallaxie/template-go)
+- [Csync](https://github.com/katallaxie/csync)
+
+---
 ### 📕 Latest Blog Posts
 - [The Power of TypeScript for GraphQL Union Type Filters](https://dev.to/katallaxie/the-power-of-typescript-for-graphql-union-type-filters-4cl2)
 - [Composition in Next.js Static Properties](https://dev.to/katallaxie/composition-in-next-js-static-properties-1ce0)
