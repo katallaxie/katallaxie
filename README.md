@@ -44,6 +44,8 @@ npx katallaxie
 - [Template Go](https://github.com/katallaxie/template-go)
 - [Csync](https://github.com/katallaxie/csync)
 
+⬇️⬇️⬇️ Highlights
+
 ---
 ### 📕 Latest Blog Posts
 - [The Power of TypeScript for GraphQL Union Type Filters](https://dev.to/katallaxie/the-power-of-typescript-for-graphql-union-type-filters-4cl2)
