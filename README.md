@@ -38,6 +38,7 @@ npx katallaxie
 
 ---
 ### 👨‍💻 More pinned highlights
+- [Streams](https://github.com/katallaxie/streams)
 - [Octopinger](https://github.com/ionos-cloud/octopinger)
 - [Uptrends Operator](https://github.com/ionos-cloud/uptrends-operator)
 - [Go Collection](https://github.com/katallaxie/pkg)
