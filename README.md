@@ -38,6 +38,8 @@ npx katallaxie
 
 ---
 ### 👨‍💻 More pinned highlights
+- [Mosaic](https://github.com/katallaxie/fiber-mosaic)
+- [Websocket-TCP Relay](https://github.com/katallaxie/fiber-ws-relay)
 - [Card](https://github.com/katallaxie/card)
 - [Streams](https://github.com/katallaxie/streams)
 - [Octopinger](https://github.com/ionos-cloud/octopinger)
