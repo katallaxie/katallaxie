@@ -38,15 +38,16 @@ npx katallaxie
 
 ---
 ### 👨‍💻 More pinned highlights
-- [Mosaic](https://github.com/katallaxie/fiber-mosaic)
-- [Websocket-TCP Relay](https://github.com/katallaxie/fiber-ws-relay)
-- [Card](https://github.com/katallaxie/card)
-- [Streams](https://github.com/katallaxie/streams)
-- [Octopinger](https://github.com/ionos-cloud/octopinger)
-- [Uptrends Operator](https://github.com/ionos-cloud/uptrends-operator)
-- [Go Collection](https://github.com/katallaxie/pkg)
-- [Template Go](https://github.com/katallaxie/template-go)
-- [Csync](https://github.com/katallaxie/csync)
+
+[![csync](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=csync&theme=transparent)](https://github.com/katallaxie/csync)
+[![Mosaic](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=fiber-mosaic&theme=transparent)](https://github.com/katallaxie/fiber-mosaic)
+[![Websocket-TCP Relay](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=fiber-ws-relay&theme=transparent)](https://github.com/katallaxie/fiber-ws-relay)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=card&theme=transparent)](https://github.com/katallaxie/card)
+[![Streams](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=streams&theme=transparent)](https://github.com/katallaxie/streams)
+[![Octopinger](https://github-readme-stats.vercel.app/api/pin/?username=ionos-cloud&repo=octopinger&theme=transparent)](https://github.com/ionos-cloud/octopinger)
+[![Uptrends Operator](https://github-readme-stats.vercel.app/api/pin/?username=ionos-cloud&repo=uptrends-operator&theme=transparent)](https://github.com/ionos-cloud/uptrends-operator)
+[![Pkg](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=pkg&theme=transparent)](https://github.com/katallaxie/pkg)
+[![Template Go](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=template-go&theme=transparent)](https://github.com/katallaxie/template-go)
 
 ⬇️⬇️⬇️ Highlights
 
