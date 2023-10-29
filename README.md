@@ -11,7 +11,7 @@
 👇 Hit me in your console to connect.
 
 ```bash
-npx katallaxie
+npx -y katallaxie
 ```
 
 ---
