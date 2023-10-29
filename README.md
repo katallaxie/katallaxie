@@ -2,8 +2,8 @@
 
 ### 👨‍💻 I'm a software engineer from Germany 🇩🇪.
 
-- 🏢 Head of PaaS Internal Services at [IONOS](https://ionos.com).
-- 🚀 Created products at **Microsoft**, **Amazon**, **DigitalOcean**, **Axel Springer**, **Accenture**, and **IBM**
+- 🏢 ~~Head of PaaS Internal Services at [IONOS](https://ionos.com)~~ ⏳.
+- 🚀 Created products at **Microsoft**, **Amazon**, **DigitalOcean**, **Axel Springer**, **Accenture**, **IONOS** and **IBM**
 - 🌱 Learning all about **Serverless** and **Flutter**
 - 💬 Ping me about **distributed systems**, **systems design**, **serverless**, and **Flutter** :blue_heart:
 - ⚡️ Fun fact: LEGO architect and economist.
