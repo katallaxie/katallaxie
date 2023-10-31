@@ -2,7 +2,7 @@
 
 ### 👨‍💻 I'm a software engineer from Germany 🇩🇪.
 
-- 🏢 ~~Head of PaaS Internal Services at [IONOS](https://ionos.com)~~ ⏳.
+- 🏢 Solution Architect at [ZEISS Group](https://www.zeiss.com/).
 - 🚀 Created products at **Microsoft**, **Amazon**, **DigitalOcean**, **Axel Springer**, **Accenture**, **IONOS** and **IBM**
 - 🌱 Learning all about **Serverless** and **Flutter**
 - 💬 Ping me about **distributed systems**, **systems design**, **serverless**, and **Flutter** :blue_heart:
@@ -39,6 +39,8 @@ npx -y katallaxie
 ---
 ### 👨‍💻 More pinned highlights
 
+⚠️ These are some more highlights ⭐. ⬇️⬇️⬇️ Scroll down for top pinned repositories.
+
 [![csync](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=csync&theme=transparent)](https://github.com/katallaxie/csync)
 [![Mosaic](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=fiber-mosaic&theme=transparent)](https://github.com/katallaxie/fiber-mosaic)
 [![Websocket-TCP Relay](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=fiber-ws-relay&theme=transparent)](https://github.com/katallaxie/fiber-ws-relay)
@@ -48,8 +50,6 @@ npx -y katallaxie
 [![Uptrends Operator](https://github-readme-stats.vercel.app/api/pin/?username=ionos-cloud&repo=uptrends-operator&theme=transparent)](https://github.com/ionos-cloud/uptrends-operator)
 [![Pkg](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=pkg&theme=transparent)](https://github.com/katallaxie/pkg)
 [![Template Go](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=template-go&theme=transparent)](https://github.com/katallaxie/template-go)
-
-⬇️⬇️⬇️ Highlights
 
 ---
 ### 📕 Latest Blog Posts
