@@ -39,7 +39,9 @@ npx -y katallaxie
 ---
 ### 👨‍💻 More pinned highlights
 
-⚠️ These are some more highlights ⭐. ⬇️⬇️⬇️ Scroll down for top pinned repositories.
+> ⚠️ These are some more highlights ⭐. 
+
+⬇️⬇️⬇️ Scroll down for top pinned repositories.
 
 [![csync](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=csync&theme=transparent)](https://github.com/katallaxie/csync)
 [![Mosaic](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=fiber-mosaic&theme=transparent)](https://github.com/katallaxie/fiber-mosaic)
