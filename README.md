@@ -4,7 +4,7 @@
 
 - 🏢 Solution Architect at [ZEISS Group](https://www.zeiss.com/).
 - 🚀 Created products at **Microsoft**, **Amazon**, **DigitalOcean**, **Axel Springer**, **Accenture**, **IONOS** and **IBM**
-- 🌱 Learning all about **Serverless** and **Flutter**
+- 🌱 Learning all about **HTMX** and **algorithms**
 - 💬 Ping me about **distributed systems**, **systems design**, **serverless**, and **Flutter** :blue_heart:
 - ⚡️ Fun fact: LEGO architect and economist.
 
