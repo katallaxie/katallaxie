@@ -34,24 +34,6 @@ npx -y katallaxie
 [<img align="left" style="padding-right: 12px" alt="K8s" width="32px" src="https://github.com/github/explore/raw/main/topics/kubernetes/kubernetes.png" />][website]
 
 <br />
-<br />
-
----
-### 👨‍💻 More pinned highlights
-
-> ⚠️ These are some more highlights ⭐. 
-
-⬇️⬇️⬇️ Scroll down for top pinned repositories.
-
-[![csync](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=csync&theme=transparent)](https://github.com/katallaxie/csync)
-[![Mosaic](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=fiber-mosaic&theme=transparent)](https://github.com/katallaxie/fiber-mosaic)
-[![Websocket-TCP Relay](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=fiber-ws-relay&theme=transparent)](https://github.com/katallaxie/fiber-ws-relay)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=card&theme=transparent)](https://github.com/katallaxie/card)
-[![Streams](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=streams&theme=transparent)](https://github.com/katallaxie/streams)
-[![Octopinger](https://github-readme-stats.vercel.app/api/pin/?username=ionos-cloud&repo=octopinger&theme=transparent)](https://github.com/ionos-cloud/octopinger)
-[![Uptrends Operator](https://github-readme-stats.vercel.app/api/pin/?username=ionos-cloud&repo=uptrends-operator&theme=transparent)](https://github.com/ionos-cloud/uptrends-operator)
-[![Pkg](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=pkg&theme=transparent)](https://github.com/katallaxie/pkg)
-[![Template Go](https://github-readme-stats.vercel.app/api/pin/?username=katallaxie&repo=template-go&theme=transparent)](https://github.com/katallaxie/template-go)
 
 ---
 ### 📕 Latest Blog Posts
