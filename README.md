@@ -36,7 +36,18 @@ npx -y katallaxie
 <br />
 
 ---
-### 📕 Latest Blog Posts
+### 🎡 Work in Progress ...
+- [Operator for NATS Accounting](https://github.com/ZEISS/natz-operator)
+- [A curated collection of Go packages that make the life easier](https://github.com/zeiss/pkg)
+- [An bridge for eventing in NATS](https://github.com/ZEISS/typhoon)
+- [Go-based components for the web](https://github.com/ZEISS/fiber-htmx)
+- [Managing git hooks](https://github.com/ZEISS/ghc)
+- [OpenFGA operator](https://github.com/ZEISS/openfga-operator)
+
+... and a lot more.
+
+---
+### 📕 Latest Blog Posts ...
 - [The Power of TypeScript for GraphQL Union Type Filters](https://dev.to/katallaxie/the-power-of-typescript-for-graphql-union-type-filters-4cl2)
 - [Composition in Next.js Static Properties](https://dev.to/katallaxie/composition-in-next-js-static-properties-1ce0)
 - [The State of Go Plugins](https://dev.to/katallaxie/the-state-of-go-plugins-86n)
