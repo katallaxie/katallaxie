@@ -6,7 +6,7 @@
 
 - 🏢 Domain Architect at [ZEISS Group](https://www.zeiss.com/).
 - 🚀 Created products at **Microsoft**, **Amazon**, **DigitalOcean**, **Axel Springer**, **Accenture**, **IONOS** and **IBM**
-- 🌱 Learning all about **HTMX** and **algorithms**
+- 🌱 Learning all about **HTMX**, **AI/ML**, and **algorithms**
 - 💬 Ping me about **distributed systems**, **systems design**, **serverless**, and **Flutter** :blue_heart:
 - ⚡️ Fun fact: LEGO architect and economist.
 
