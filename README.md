@@ -4,15 +4,14 @@
 
 ### 👨‍💻 I'm a software engineer from Germany 🇩🇪.
 
-- 🏢 Domain Architect at [ZEISS Group](https://www.zeiss.com/).
-- 🚀 Created products at **Microsoft**, **Amazon**, **DigitalOcean**, **Axel Springer**, **Accenture**, **IONOS** and **IBM**
+- 🚀 Building products at **Microsoft**, **Amazon**, **DigitalOcean**, **IONOS** and many more 💬
 - 🌱 Learning all about **HTMX**, **AI/ML**, and **algorithms**
 - 💬 Ping me about **distributed systems**, **systems design**, **serverless**, and **Flutter** :blue_heart:
 - ⚡️ Fun fact: LEGO architect and economist.
 
 👇 Hit me in your console to connect.
 
-```bash
+```
 npx -y katallaxie
 ```
 
