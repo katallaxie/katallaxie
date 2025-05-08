@@ -40,13 +40,12 @@ npx -y katallaxie
 ### 🎡 Work in Progress ...
 - [⚡️ Create HTML and HTMX applications with pure Go](https://github.com/katallaxie/fiber-htmx)
 - [Operator for NATS Accounting](https://github.com/ZEISS/natz-operator)
-- [A curated collection of Go packages that make the life easier](https://github.com/zeiss/pkg)
+- [A curated collection of Go packages that make the life easier](https://github.com/katallaxie/pkg)
 - [An bridge for eventing in NATS](https://github.com/ZEISS/typhoon)
-- [Go-based components for the web](https://github.com/ZEISS/fiber-htmx)
 - [Managing git hooks](https://github.com/ZEISS/ghc)
 - [OpenFGA operator](https://github.com/ZEISS/openfga-operator)
 - [A simple and secure Terraform backend.](https://github.com/ZEISS/knox)
-- [Writing GitHub actions in Go](https://github.com/ZEISS/template-action)
+- [Writing GitHub actions in Go](https://github.com/katallaxie/template-action)
 - [Manage workloads with Well-Architected Framework](https://github.com/zeiss/service-lens)
 
 ... and a lot more.
