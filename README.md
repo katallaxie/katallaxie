@@ -38,7 +38,7 @@ npx -y katallaxie
 
 ---
 ### 🎡 Work in Progress ...
-- [⚡️ Create HTML and HTMX applications with pure Go](https://github.com/katallaxie/fiber-htmx)
+- [⚡️ Create HTML and HTMX applications with pure Go](https://github.com/katallaxie/htmx)
 - [Operator for NATS Accounting](https://github.com/ZEISS/natz-operator)
 - [A curated collection of Go packages that make the life easier](https://github.com/katallaxie/pkg)
 - [An bridge for eventing in NATS](https://github.com/ZEISS/typhoon)
