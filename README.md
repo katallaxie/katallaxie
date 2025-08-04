@@ -1,7 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
 ### 👨‍💻 I'm a software engineer from Germany 🇩🇪.
 
 - 🚀 Building products at **Microsoft**, **Amazon**, **DigitalOcean**, **IONOS** and many more 💬
