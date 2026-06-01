@@ -2,7 +2,7 @@
 
 ### 👨‍💻 I'm a software engineer from Germany 🇩🇪.
 
-- 🚀 Building products at **Microsoft**, **Amazon**, **DigitalOcean**, **IONOS** and many more 💬
+- 🚀 Building products at *ZEISS*, **Microsoft**, **Amazon**, **DigitalOcean**, and others 💬
 - 🌱 Learning all about **HTMX**, **AI/ML**, and **algorithms**
 - 💬 Ping me about **distributed systems**, **systems design**, **serverless**, and **Flutter** :blue_heart:
 - ⚡️ Fun fact: LEGO architect and economist.
